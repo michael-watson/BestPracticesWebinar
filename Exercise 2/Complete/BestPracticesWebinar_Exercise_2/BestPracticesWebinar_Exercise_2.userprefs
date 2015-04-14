@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="iOS/BestPracticesWebinar_Exercise_2.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BestPracticesWebinar_Exercise_2/Views/ApplicationGrid.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="26" Column="2" />
+      <File FileName="iOS/CustomEntryRenderer.cs" Line="12" Column="3" />
+      <File FileName="Droid/CustomEntryRenderer.cs" Line="28" Column="3" />
+      <File FileName="BestPracticesWebinar_Exercise_2/Views/CustomLabel.cs" Line="22" Column="6" />
+      <File FileName="BestPracticesWebinar_Exercise_2/Views/CustomEntry.cs" Line="17" Column="2" />
+      <File FileName="BestPracticesWebinar_Exercise_2/Views/ApplicationGrid.cs" Line="37" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Exercise 1/Desktop/Best Practices Webinar/Exercise 1/BrewMate/BrewMate/HopsList.cs" line="152" offsetX="61" offsetY="2324" expression="selected" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
